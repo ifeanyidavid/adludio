@@ -1,0 +1,11 @@
+{
+  "name": "string-permute",
+  "version": "1.0.0",
+  "description": "String permutate endpoint for adludio task",
+  "main": "index.js",
+  "author": "Dave Kalu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

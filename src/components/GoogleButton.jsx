@@ -46,7 +46,6 @@ function GoogleButton() {
             width="18px"
             height="18px"
             viewBox="0 0 48 48"
-            class="abcRioButtonSvg"
           >
             <g>
               <path

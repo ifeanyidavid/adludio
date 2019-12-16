@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/adludio/static/css/main.0e9c6bfc.chunk.css",
+    "main.js": "/adludio/static/js/main.f1a627c7.chunk.js",
+    "main.js.map": "/adludio/static/js/main.f1a627c7.chunk.js.map",
+    "runtime-main.js": "/adludio/static/js/runtime-main.ed7ede22.js",
+    "runtime-main.js.map": "/adludio/static/js/runtime-main.ed7ede22.js.map",
+    "static/css/2.64a99b10.chunk.css": "/adludio/static/css/2.64a99b10.chunk.css",
+    "static/js/2.c13404fb.chunk.js": "/adludio/static/js/2.c13404fb.chunk.js",
+    "static/js/2.c13404fb.chunk.js.map": "/adludio/static/js/2.c13404fb.chunk.js.map",
+    "index.html": "/adludio/index.html",
+    "precache-manifest.e715de825361570146b05b823ecc00ab.js": "/adludio/precache-manifest.e715de825361570146b05b823ecc00ab.js",
+    "service-worker.js": "/adludio/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/adludio/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.0e9c6bfc.chunk.css.map": "/adludio/static/css/main.0e9c6bfc.chunk.css.map",
+    "static/js/2.c13404fb.chunk.js.LICENSE": "/adludio/static/js/2.c13404fb.chunk.js.LICENSE",
+    "static/media/asset1.jpg": "/adludio/static/media/asset1.aa6ffae2.jpg",
+    "static/media/asset2.png": "/adludio/static/media/asset2.585afc78.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed7ede22.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.c13404fb.chunk.js",
+    "static/css/main.0e9c6bfc.chunk.css",
+    "static/js/main.f1a627c7.chunk.js"
+  ]
+}
